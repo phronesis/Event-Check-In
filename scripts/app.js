@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  var host = "http://eventsaccess.app";
+  var host = "http://events.celagoszone5.org";
   var responseData = [];
   $("input[id ='searchInput']").on("keyup", function(e) {
     var search_input = $(this).val();
