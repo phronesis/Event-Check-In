@@ -2,4 +2,6 @@ Add Your name and role to the contributors list and do a pull request.
 
 
 David Umoh, Developer/Project Lead
+Desmond, Developer
+John Wealth, Developer/Team Lead
 
