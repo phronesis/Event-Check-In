@@ -1,7 +1,9 @@
 body{
   background: #343d46;
 }
-
+h4,h5{
+  color:white;
+}
 .box{
   margin: 100px auto;
   width: 90%;
@@ -10,14 +12,15 @@ body{
 
 
 .container-1{
-  width: 90%;
+  width: 100%;
   vertical-align: middle;
   white-space: nowrap;
   position: relative;
+  clear: both;
 }
 
 .container-1 input#searchInput{
-  width: 500px;
+ 
   height: 50px;
   background: #2b303b;
   border: none;
@@ -67,9 +70,3 @@ body{
     background: #ffffff;
 }
 
-#result {
-  position: absolute;
-  height: 30px;
-  top: 89px;
-  background: tomato;
-}
